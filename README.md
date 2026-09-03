@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heema2/Ryuk-Azan/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Installer-C9A227?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/></a>
+  <a href="https://github.com/heema2/Azan-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Installer-C9A227?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/></a>
   <a href="https://github.com/heema2/Ryuk-Dev"><img src="https://img.shields.io/badge/Hub-Ryuk--Dev-1A1A1A?style=for-the-badge&logo=github" alt="Ryuk-Dev"/></a>
   <a href="https://discord.com/users/198843596558958601"><img src="https://img.shields.io/badge/Discord-Ryuk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
@@ -57,8 +57,8 @@ Azan Desktop is a native **Windows 10 / 11** app for prayer times and Azan. Pick
 
 ## 🚀 Quick start
 
-👉 **[AzanDesktop-Setup-1.0.7.exe](https://github.com/heema2/Ryuk-Azan/releases/latest/download/AzanDesktop-Setup-1.0.7.exe)**  
-All versions: **[Releases](https://github.com/heema2/Ryuk-Azan/releases)**
+👉 **[AzanDesktop-Setup-1.0.7.exe](https://github.com/heema2/Azan-Desktop/releases/latest/download/AzanDesktop-Setup-1.0.7.exe)**  
+All versions: **[Releases](https://github.com/heema2/Azan-Desktop/releases)**
 
 1. Run the setup (per-user install — **no admin UAC**).
 2. Launch **Azan Desktop**.
