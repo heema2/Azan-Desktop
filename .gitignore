@@ -1,0 +1,8 @@
+# Public product page only - never add source
+*
+!README.md
+!LICENSE
+!NOTICE.md
+!.gitignore
+!docs/
+!docs/**
