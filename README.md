@@ -2,7 +2,7 @@
   <img src="docs/assets/logo.png" alt="Azan Desktop" width="128"/>
 </p>
 
-<h1 align="center">ðŸ•Œ Azan Desktop</h1>
+<h1 align="center"> Azan Desktop</h1>
 
 <p align="center">
   <strong>Islamic prayer times and Azan notifications for Windows</strong><br/>
