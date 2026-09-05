@@ -12,12 +12,12 @@
 <p align="center">
   <a href="https://github.com/heema2/Azan-Desktop/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Installer-C9A227?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/></a>
   <a href="https://github.com/heema2/Ryuk-Dev"><img src="https://img.shields.io/badge/Hub-Ryuk--Dev-1A1A1A?style=for-the-badge&logo=github" alt="Ryuk-Dev"/></a>
-  <a href="https://discord.com/users/198843596558958601"><img src="https://img.shields.io/badge/Discord-Ryuk-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://github.com/heema2"><img src="https://img.shields.io/badge/GitHub-heema2-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discord"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?logo=windows&logoColor=white" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Version-2.1.0-C9A227" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-2.4.3-C9A227" alt="Version"/>
   <img src="https://img.shields.io/badge/Code-Proprietary-lightgrey" alt="Proprietary"/>
 </p>
 
@@ -57,7 +57,7 @@ Azan Desktop is a native **Windows 10 / 11** app for prayer times and Azan. Pick
 
 ## ðŸš€ Quick start
 
-ðŸ‘‰ **[AzanDesktop-Setup-2.1.0.exe](https://github.com/heema2/Azan-Desktop/releases/latest/download/AzanDesktop-Setup-2.1.0.exe)**  
+ðŸ‘‰ **[AzanDesktop-Setup-2.4.3.exe](https://github.com/heema2/Azan-Desktop/releases/latest/download/AzanDesktop-Setup-2.4.3.exe)**  
 All versions: **[Releases](https://github.com/heema2/Azan-Desktop/releases)**
 
 1. Run the setup (per-user install â€” **no admin UAC**).
@@ -83,7 +83,7 @@ Built by **Heema Star (Ryuk)** under **Ryuk Developments**.
 |---|---|
 | ðŸ  Main hub | [github.com/heema2/Ryuk-Dev](https://github.com/heema2/Ryuk-Dev) |
 | ðŸ™ GitHub | [github.com/heema2](https://github.com/heema2) |
-| ðŸ’¬ Discord | [discord.com/users/198843596558958601](https://discord.com/users/198843596558958601) |
+| ðŸ’¬ Discord | [discord.com/users/198843596558958601](https://github.com/heema2) |
 
 Â© 2026 Ryuk Developments. All rights reserved.
 
