@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?logo=windows&logoColor=white" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Version-2.4.3-C9A227" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-2.4.4-C9A227" alt="Version"/>
   <img src="https://img.shields.io/badge/Code-Proprietary-lightgrey" alt="Proprietary"/>
 </p>
 
@@ -58,7 +58,7 @@ Azan Desktop is a native **Windows 10 / 11** app for prayer times and Azan. Pick
 
 ## Quick start
 
-**[AzanDesktop-Setup-2.4.3.exe](https://github.com/heema2/Azan-Desktop/releases/latest/download/AzanDesktop-Setup-2.4.3.exe)**  
+**[AzanDesktop-Setup-2.4.4.exe](https://github.com/heema2/Azan-Desktop/releases/latest/download/AzanDesktop-Setup-2.4.4.exe)**  
 All versions: **[Releases](https://github.com/heema2/Azan-Desktop/releases)**
 
 1. Run the setup (per-user install — **no admin UAC**).
